@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"InkpotDemo": "UnrealEditor-InkpotDemo.dll",
+		"InkpotDemoEditor": "UnrealEditor-InkpotDemoEditor.dll"
+	}
+}

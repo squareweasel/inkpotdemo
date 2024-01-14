@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InkpotDemo",
+			"Path": "..\\Source\\InkpotDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InkpotDemoEditor",
+			"Path": "..\\Source\\InkpotDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

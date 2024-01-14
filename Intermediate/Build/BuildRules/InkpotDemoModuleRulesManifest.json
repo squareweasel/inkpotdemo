@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Source\\InkPotDemoEditor\\InkpotDemoEditor.Build.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Source\\InkpotDemo\\InkpotDemo.Build.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Plugins\\Inkpot\\Source\\InkPlusPlus\\InkPlusPlus.Build.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Plugins\\Inkpot\\Source\\InkpotEditor\\InkpotEditor.Build.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Plugins\\Inkpot\\Source\\Inkpot\\Inkpot.Build.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Source\\InkpotDemo.Target.cs",
+		"C:\\Users\\Ze\\Documents\\Unreal Projects\\inkpotdemo_git\\Source\\InkpotDemoEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
