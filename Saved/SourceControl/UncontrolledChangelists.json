@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/Maps/HelloInk/HelloInk.umap",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/Stories/LOIF.uasset",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/Maps/Demo/Demo.umap",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/Maps/LOIF/LOIF.umap",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/UI/WBP_Display.uasset",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/UI/WBP_Text.uasset",
+				"C:/Users/Ze/Documents/Unreal Projects/inkpotdemo_git/Content/InkpotDemo/Framework/BP_InkpotDemoGameMode.uasset",
 				"C:/Users/Ze/Documents/Unreal Projects/InkpotDemo/Content/InkpotDemo/Maps/Demo/Demo.umap"
 			]
 		}
