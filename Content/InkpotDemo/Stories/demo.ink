@@ -1,6 +1,8 @@
 EXTERNAL MyExternalBPFunction( ABoolean, TheAnswer, PI, Message, AreasVisited )
-LIST CubeColour = (White), Red, Blue, Green
+EXTERNAL ZeExtBPFunc(ran)
+LIST CubeColour = (White), Red, Blue, Green, Yellow
 LIST visited =  Cube, RedRoundel, BlueBox, Parms, FlowsExplained, ExternalFuncs
+VAR ran = 0
 
 -> Main
 
@@ -62,9 +64,11 @@ LIST visited =  Cube, RedRoundel, BlueBox, Parms, FlowsExplained, ExternalFuncs
     +[Red] You chose Red.
         ~CubeColour = Red
     +[Blue] Blue is the choice you made. 
-        ~CubeColour =Blue
+        ~CubeColour = Blue
     +[Green] Green, green, green, it's not easy bein’ green!
         ~CubeColour = Green
+    +[Yellow] Yellow, who's there?
+        ~CubeColour = Yellow
     - The cubes are now {CubeColour}
     Now go check out some of the other areas.
     When you come back here you can change the cube colour again. 
@@ -136,8 +140,15 @@ LIST visited =  Cube, RedRoundel, BlueBox, Parms, FlowsExplained, ExternalFuncs
 == ExternalFunctionDemo
     ~visited += ExternalFuncs
     This section demos how Ink can call into a blueprint function. 
-    ~temp ReturnValue = MyExternalBPFunction( true, 42, 3.142, "Hello from Ink", visited )
+    +Run Stock Function
+        ~temp ReturnValue = MyExternalBPFunction( true, 42, 3.142, "Hello from Ink", visited )
     and this, '{ReturnValue}', is what it returned. 
+    +Run Test Function
+        ~ran++
+        ~temp ZeReturnValue = ZeExtBPFunc(ran)
+    Returned value {ran}
+        
+    
     ->DONE
 
 
