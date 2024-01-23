@@ -1,17 +1,16 @@
 
 ->start
 ==start
-N: Lura and Cecil stand before Atwiks, under the bony branches of the sacred tree: "Hello." A Moving sigil encircles them all. #EnterL#L#C#EnterR#A
+N: Lura and Cecil stand before Atwiks, under the bony branches of the sacred tree. A Moving sigil encircles them all. #EnterL#L#C#EnterR#A
 +[continue]
 -
-With slow movements of their hand, Atwiks signs. 
-A: [i]Keep barrier spell strong. Do not close eyes. Chance. Memories. Washed away. Heart. Washed away. Affirm understanding.[i]
+A: With slow movements of their hand, Atwiks signs. <i>Keep barrier spell strong. Do not close eyes. Chance. Memories. Washed away. Heart. Washed away. Affirm understanding. </>
 +[I understand.]
 -
 Lura nods.
  +[continue]
 -
-Spk*A/i/Shut out not what eyes see, deafen not what ears hear. Deny not reality. Heed. Heed. Affirm understanding./i
+A: <i>Shut out not what eyes see, deafen not what ears hear. Deny not reality. Heed. Heed. Affirm understanding.</>
 +[continue]
 -
 The chamber is so quiet, like the air is too scared to move.
