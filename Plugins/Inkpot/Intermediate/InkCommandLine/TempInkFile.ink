@@ -7,8 +7,8 @@ N: Lura and Cecil stand before Atwiks, under the bony branches of the sacred tre
 A: With slow movements of their hand, Atwiks signs. <i>Keep barrier spell strong. Do not close eyes. Chance. Memories. Washed away. Heart. Washed away. Affirm understanding. </>
 +[I understand.]
 -
-Lura nods.
- +[continue]
+Lura nods. 
++[continue]
 -
 A: <i>Shut out not what eyes see, deafen not what ears hear. Deny not reality. Heed. Heed. Affirm understanding.</>
 +[continue]
